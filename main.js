@@ -1,7 +1,7 @@
 const game = () => {
   let pScore = 0;
   let cScore = 0;
-  var counter = 20;
+  var counter = 60;
   const startGame = () => {
     const playBtn = document.querySelector(".intro button");
     const introScreen = document.querySelector(".intro");
